@@ -36,13 +36,10 @@
 	width:40%;
 }
 
-.name-holder{
-	height:25%;
-}
 
 .name{
 	width:25%;
-	height:30%;
+	
 	position:relative;
 	flex-direction:column;
 	
