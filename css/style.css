@@ -33,12 +33,12 @@
 }
 
 .holder{
-	width:40%;
+	width:44%;
 }
 
 
 .name{
-	width:25%;
+	width:30%;
 	height:30;
 	position:relative;
 	flex-direction:column;
